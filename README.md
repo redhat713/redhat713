@@ -8,7 +8,7 @@
 
 <br/>
 
-<div style="dsiplay: flex; width: 100%; text-align: center;">
+<div align="center">
   <img src="code.gif" alt="redhatwong58" style="max-width: 100%; height: auto;" />
 </div>
 
