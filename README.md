@@ -9,7 +9,7 @@
 <br/>
 
 <div align="center">
-  <img src="code.gif" alt="redhatwong58" style="max-width: 100%; height: auto;" />
+  <img src="code.gif" alt="redhat713" style="max-width: 100%; height: auto;" />
 </div>
 
 <p align='center'>
